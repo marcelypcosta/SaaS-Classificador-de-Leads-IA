@@ -1,0 +1,5 @@
+# Ignorar pasta de configuração e segredos do Streamlit
+/.streamlit/
+
+# Ignorar dependências e ambientes virtuais
+streamlit_env/
