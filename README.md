@@ -84,4 +84,4 @@ Este aplicativo foi implantado na [Streamlit Community Cloud](https://streamlit.
 
 ---
 
-Desenvolvido por **Marcely, Lucas e Werner**
+Desenvolvido por **Marcely, Lucas, Werner e Felipe Gabriel**
